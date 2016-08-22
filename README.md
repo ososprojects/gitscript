@@ -139,3 +139,16 @@ git pull upstream master
 ###7.4 Arbeiten wie sonst mit git
 ###7.5 Zusammenführen von Code: Pull Request
 Um überprüfte Änderungen begutachten und einpflegen zu lassen: Pull Request über die Seite github.org erstellen.
+
+##8 Nützliche Links
+Von Innsbrucker Informatik Intitut an der Uni, die Herangehensweise bei ihren Projekten mit einem anschaulichem Bild:
+https://iis.uibk.ac.at/collab/git
+
+git mit Hilfe und ohne Installtion für SchülerInnen ausprobieren (achtung Englisch)
+https://try.github.io
+
+Sehr umfangreiche Anleitung (von dort hab ich auch ein paar Bilder zum Erklären beim Worshop vorgezeigt):
+https://www.atlassian.com/git/tutorials/what-is-version-control
+
+Ein grafischer Spickzettel für Git (beschränkt sich auf das lokale Arbeiten)
+https://marklodato.github.io/visual-git-guide/index-de.html
